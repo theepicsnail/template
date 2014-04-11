@@ -2,7 +2,7 @@ requirejs.config({
   baseUrl: 'js',
   map: {
     '*': {
-      'Promise': 'libs/es6-promise/promise',
+      'promise': 'libs/es6-promise/promise',
     }
   },
   shim: {

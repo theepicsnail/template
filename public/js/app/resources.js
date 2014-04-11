@@ -1,4 +1,4 @@
-define(["Promise"], function(Promise) {
+define(["promise"], function(Promise) {
   return {
     load: function() {
       return new Promise(function(accept, reject){
